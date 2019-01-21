@@ -1,0 +1,42 @@
+.container {
+  height: 300px;
+  width: 350px;
+  position: relative;
+  border: 3px solid rgb(255, 255, 255);
+}
+
+.container h2 {
+  margin: 0;
+  position: absolute;
+  top: 8%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.container h3 {
+  margin: 0;
+  position: absolute;
+  top: 65%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.enter h2 {
+  margin: 0;
+  position: absolute;
+  top: 130%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.enter h3 {
+  margin: 0;
+  position: absolute;
+  top: 170%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
